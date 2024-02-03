@@ -16,11 +16,13 @@ N/A
 ## Page
 https://adriannaderkacz.github.io/work-day-scheduler/
 
-[Screenshots]
+![Preview image](./assets/images/SS1.png)
+![Preview image](./assets/images/SS3.png)
+
 
 ## Usage
 **Planning Your Day**
-- **Entering Tasks:** Click on the text area within any hourly block to type in your tasks or notes for that hour.
+- **Entering Tasks:** Click on the text area within any hourly blo3ck to type in your tasks or notes for that hour.
 - **Saving Tasks:** After typing your task, click the floppy disk icon on the right side of the block to save your task. The icon will change to indicate the saved status.
 - **Visual Indicators:** Each time block is color-coded to reflect whether the hour is in the past (gray), present (red), or future (green), helping you to easily identify the current time.
 - **Persistent Storage:** Your tasks are saved to the browser's localStorage, meaning they will remain available even after closing and reopening the browser or refreshing the page.
